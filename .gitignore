@@ -1,0 +1,12 @@
+# Ignore compiled binaries
+bin/
+obj/
+
+# Ignore Visual Studio files
+.vs/
+*.sln.cache
+*.user
+
+# Ignore temporary files
+*.tmp
+*.bak
